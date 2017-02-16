@@ -1,0 +1,5 @@
+install the requirements 
+$ pip install -r requirements.txt
+
+run the main file using python2.7
+$ python app/qti.p
